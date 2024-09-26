@@ -2,5 +2,5 @@
 
 ## Default User Credentials
 UserName: SuperAdmin\
-Email: a2masum@yahoo.com\
+Email: umair4live@gmail.com\
 Password: SuperAdmin
